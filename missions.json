@@ -1,0 +1,31 @@
+{
+  "user": "knowmeasGaurav",
+  "new_days": 14,
+  "exclude": ["knowmeasGaurav", "SDES"],
+  "manual": [
+    {
+      "name": "CampusLink",
+      "log": "Sole frontend dev at an early-stage student startup. Every screen goes through me.",
+      "status": "ACTIVE",
+      "lang": "Flutter"
+    },
+    {
+      "name": "Unix shell",
+      "log": "Built from scratch in C++. Bash was taken.",
+      "status": "LAUNCHED",
+      "lang": "C++"
+    },
+    {
+      "name": "Fitness tracker + AI coach",
+      "log": "Logs every rep. Judges quietly.",
+      "status": "LAUNCHED"
+    }
+  ],
+  "repos": {
+    "multi-agent-research-assistant": {
+      "name": "Multi-agent research assistant",
+      "log": "The agents do the reading. You get the answer.",
+      "status": "DEPLOYED"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 56" width="900" height="56" role="img" aria-labelledby="t d">
+<title id="t">01 ACTIVE MISSIONS</title>
+<desc id="d">what's in orbit</desc>
+<defs>
+<clipPath id="frame"><rect width="900" height="56" rx="12"/></clipPath>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="900" height="56" fill="#060A13"/>
+<text x="22" y="33" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" font-weight="700" fill="#F5B94A" text-anchor="start" letter-spacing="1" xml:space="preserve" >01</text>
+<text x="46" y="33" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" font-weight="700" fill="#26344F" text-anchor="start" letter-spacing="0" xml:space="preserve" >//</text>
+<text x="70" y="33" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" font-weight="700" fill="#E4ECF8" text-anchor="start" letter-spacing="3" xml:space="preserve" >ACTIVE MISSIONS</text>
+<text x="880" y="33" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" font-weight="400" fill="#6B7C99" text-anchor="end" letter-spacing="0" xml:space="preserve" >what's in orbit</text>
+<line x1="250" y1="28" x2="762" y2="28" stroke="#26344F"/>
+<line x1="250" y1="25" x2="250" y2="31" stroke="#26344F"/>
+<line x1="274" y1="25" x2="274" y2="31" stroke="#26344F"/>
+<line x1="298" y1="25" x2="298" y2="31" stroke="#26344F"/>
+<line x1="322" y1="25" x2="322" y2="31" stroke="#26344F"/>
+<line x1="346" y1="25" x2="346" y2="31" stroke="#26344F"/>
+<line x1="370" y1="25" x2="370" y2="31" stroke="#26344F"/>
+<line x1="394" y1="25" x2="394" y2="31" stroke="#26344F"/>
+<line x1="418" y1="25" x2="418" y2="31" stroke="#26344F"/>
+<line x1="442" y1="25" x2="442" y2="31" stroke="#26344F"/>
+<line x1="466" y1="25" x2="466" y2="31" stroke="#26344F"/>
+<line x1="490" y1="25" x2="490" y2="31" stroke="#26344F"/>
+<line x1="514" y1="25" x2="514" y2="31" stroke="#26344F"/>
+<line x1="538" y1="25" x2="538" y2="31" stroke="#26344F"/>
+<line x1="562" y1="25" x2="562" y2="31" stroke="#26344F"/>
+<line x1="586" y1="25" x2="586" y2="31" stroke="#26344F"/>
+<line x1="610" y1="25" x2="610" y2="31" stroke="#26344F"/>
+<line x1="634" y1="25" x2="634" y2="31" stroke="#26344F"/>
+<line x1="658" y1="25" x2="658" y2="31" stroke="#26344F"/>
+<line x1="682" y1="25" x2="682" y2="31" stroke="#26344F"/>
+<line x1="706" y1="25" x2="706" y2="31" stroke="#26344F"/>
+<line x1="730" y1="25" x2="730" y2="31" stroke="#26344F"/>
+<line x1="754" y1="25" x2="754" y2="31" stroke="#26344F"/>
+<circle cx="250" cy="28" r="2.6" fill="#7AA2FF" filter="url(#glow)"><animate attributeName="cx" from="250" to="762" dur="3.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.2s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="0.5" y="0.5" width="899" height="55" rx="12" fill="none" stroke="#1A2640"/>
+</svg>
