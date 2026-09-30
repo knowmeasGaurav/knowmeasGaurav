@@ -41,20 +41,14 @@
   </tr>
   <tr>
     <td><code>M-03</code></td>
-    <td><a href="https://github.com/knowmeasGaurav/Currency-converter-app"><b>Currency converter app</b></a></td>
-    <td>Launched. Log pending.</td>
-    <td align="right"><code>LAUNCHED</code></td>
-  </tr>
-  <tr>
-    <td><code>M-04</code></td>
     <td><a href="https://github.com/knowmeasGaurav/multi-agent-research-assistant"><b>Multi-agent research assistant</b></a><br><sub>Python</sub></td>
     <td>The agents do the reading. You get the answer.</td>
     <td align="right"><code>DEPLOYED</code></td>
   </tr>
   <tr>
-    <td><code>M-05</code></td>
+    <td><code>M-04</code></td>
     <td><a href="https://github.com/knowmeasGaurav/Weather-app"><b>Weather app</b></a><br><sub>C++</sub></td>
-    <td>Launched. Log pending.</td>
+    <td>A simple weather app built with Flutter and a weather API to display real-time weather information. Created as a learning project while exploring Flutter and mobile app development.</td>
     <td align="right"><code>LAUNCHED</code></td>
   </tr>
 </table>
